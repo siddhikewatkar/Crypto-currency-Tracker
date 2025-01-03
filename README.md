@@ -1,6 +1,6 @@
 # Crypto Currency Tracker
-![Uploading Screenshot (12).png…]()
 
+![Screenshot (12)](https://github.com/user-attachments/assets/cf5b33e1-404a-43b4-a7ed-311c0b2bc310)
 
 
 # Getting Started with Create React App
